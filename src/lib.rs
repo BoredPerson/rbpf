@@ -34,6 +34,7 @@ pub mod fuzz;
 pub mod insn_builder;
 mod jit;
 pub mod memory_region;
+pub mod static_analysis;
 pub mod syscalls;
 pub mod user_error;
 pub mod verifier;
